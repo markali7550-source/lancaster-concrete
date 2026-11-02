@@ -172,7 +172,7 @@ const coreServices: readonly ServiceRecord[] = [
     covered: [
       {
         title: "New driveway pours",
-        body: "First time concrete over an existing gravel or dirt drive, including the excavation, subbase, and apron connection to the street or existing approach.",
+        body: "First time concrete over an existing gravel or dirt drive, including the excavation, subbase, and a clean joint where the drive meets the street.",
       },
       {
         title: "Full replacement",
@@ -192,6 +192,7 @@ const coreServices: readonly ServiceRecord[] = [
       "Public road or commercial access work",
       "Structural engineering or geotechnical assessment",
       "Retaining walls supporting a driveway cut",
+      "Driveway-to-garage and driveway-to-street aprons, covered on our Concrete Aprons page",
     ],
     options: [
       {
@@ -561,9 +562,9 @@ const coreServices: readonly ServiceRecord[] = [
     nameLower: "concrete slabs and pads",
     projectNoun: "slab",
     state: "published",
-    intent: "Garage slabs, shed pads, workshop floors, and equipment pads",
+    intent: "Garage slabs, shed slabs, and workshop floors",
     summary:
-      "Garage slabs, shed pads, and equipment pads on a compacted gravel base, with a vapor barrier where needed.",
+      "Garage, shed, and workshop slabs on a compacted gravel base, with a vapor barrier where needed.",
     heroSummary:
       "Even, reinforced concrete slabs perfect for sheds, workshops, additions, and outdoor structures. Connect with an experienced local specialist for upfront pricing.",
     sectionOrder: ["scope", "options", "process", "cost", "prepare"],
@@ -584,7 +585,7 @@ const coreServices: readonly ServiceRecord[] = [
       "Pricing comes last here for a reason: until the load, the access and the base are known, any number is a guess. Once those are settled a contractor can quote a pad quickly.",
     ctaLead:
       "Say what the pad has to carry and roughly where it goes. A local contractor will review it and reply.",
-    cardScope: "Garage slabs, shed pads, workshop floors, and equipment pads",
+    cardScope: "Garage slabs, shed slabs, and workshop floors",
     workIncluded: [
       "Grading and excavation to the planned subgrade",
       "Forming and reinforcement set to the layout",
@@ -616,26 +617,27 @@ const coreServices: readonly ServiceRecord[] = [
     ],
     covered: [
       {
-        title: "Shed and outbuilding pads",
+        title: "Shed and outbuilding slabs",
         body: "Level bases for prefabricated sheds and small outbuildings, sized with the overhang and anchor points in mind.",
       },
       {
-        title: "Equipment and generator pads",
-        body: "Small pads for HVAC units, generators, and tanks, placed at the elevation the installer requires.",
+        title: "Garage slabs",
+        body: "Level, reinforced slabs for attached and detached garage floors, with the thickness set for the vehicles that will park on them.",
       },
       {
         title: "Vehicle, RV, and trailer parking",
         body: "Thicker pads for heavier static loads, with reinforcement specified for the weight being parked.",
       },
       {
-        title: "Utility and equipment pads",
-        body: "Pads for trash cans, generators, and utility equipment, poured alongside a larger job.",
+        title: "Workshop floors",
+        body: "Level, reinforced floors for workshops and hobby spaces, poured alongside a larger job.",
       },
     ],
     outOfScope: [
-      "Structural footings and house foundations, covered on our Concrete Foundations page",
+      "New residential footings and stem walls, covered on our Concrete Foundations page",
       "Engineered or load bearing structural slabs",
       "Driveways and aprons",
+      "Hot tub, generator, and HVAC pads, covered on our Equipment Pads page",
       "Retaining walls and any earth retention design",
     ],
     options: [
@@ -777,9 +779,9 @@ const coreServices: readonly ServiceRecord[] = [
     state: "published",
     intent: "Crack repair, joint restoration, and damaged concrete",
     summary:
-      "Crack repair, joint restoration, and patching of damaged or sunken concrete to keep water out.",
+      "Crack fixing, joint restoration, and patching of damaged concrete to keep water out.",
     heroSummary:
-      "Fast, reliable repair solutions for cracked, sunken, or chipping residential concrete. Our team coordinates a free on site assessment with an experienced local pro.",
+      "Fast, reliable repair solutions for cracked or chipping residential concrete. Our team coordinates a free on site assessment with an experienced local pro.",
     sectionOrder: ["scope", "options", "process", "cost", "prepare"],
     headings: {
       scope: "Responsibility for damage",
@@ -835,8 +837,8 @@ const coreServices: readonly ServiceRecord[] = [
         body: "Patching flaked or pitted areas where the wearing surface has broken down but the slab beneath is sound.",
       },
       {
-        title: "Sunken and damaged sections",
-        body: "Restoring damaged or sunken sections of concrete in place, once the cause is assessed and the substrate is found sound.",
+        title: "Damaged sections",
+        body: "Restoring damaged sections of concrete in place, once the cause is assessed and the substrate is found sound. Sunken or settled slabs are lifted on our Concrete Leveling page.",
       },
       {
         title: "Joint maintenance",
@@ -848,6 +850,7 @@ const coreServices: readonly ServiceRecord[] = [
       "Structural repair and load bearing work",
       "Below grade waterproofing",
       "Anything caused by active ground movement or heave",
+      "Lifting sunken or settled slabs, covered on our Concrete Leveling page",
     ],
     options: [
       {

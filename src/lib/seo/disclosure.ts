@@ -1,5 +1,5 @@
 /** Single approved disclosure source. Compliance gate 24 asserts one origin. */
-export const FULL_DISCLOSURE = `Lancaster Concrete Connect is a dedicated project coordination service that connects homeowners with trusted, licensed local concrete contractors across Lancaster County, South Carolina. We are not a concrete contractor and do not perform concrete work directly. All estimates and concrete work are performed by the licensed local concrete contractors in our network, and contracts are made directly between homeowners and those contractors. We are not a residential builder, general contractor, engineer, or government agency, and we do not supervise, warrant, or guarantee construction work. Requests may be shared with the trusted local contractors serving your area. Contractor availability, licensing, insurance, pricing, and project eligibility must be confirmed with the assigned contractor. South Carolina requirements vary by project type, scope, and total cost. Verify credentials through SC LLR before hiring.`;
+export const FULL_DISCLOSURE = `Lancaster Concrete Connect is a dedicated project coordination service that connects homeowners with trusted, independent local concrete providers across Lancaster County, South Carolina. We are not a concrete contractor and do not perform concrete work directly. All estimates and concrete work are performed by the independent local concrete providers in our network, and contracts are made directly between homeowners and those contractors. We are not a residential builder, general contractor, engineer, or government agency, and we do not supervise, warrant, or guarantee construction work. Requests may be shared with the trusted local contractors serving your area. Contractor availability, licensing, insurance, pricing, and project eligibility must be confirmed with the assigned contractor. South Carolina requirements vary by project type, scope, and total cost. Verify credentials through SC LLR before hiring.`;
 
 /** Footer disclosure. Required verbatim on every page. */
 /**
@@ -23,19 +23,19 @@ export const PUBLIC_DISCLOSURE_PARAGRAPHS: readonly string[] = [
 export const FOOTER_DISCLOSURE = `Lancaster Concrete Connect is a dedicated project coordination service and is not a concrete contractor. We connect homeowners with trusted local concrete contractors in our network. We do not perform, supervise, or guarantee construction work. Contracts and licensing must be verified directly with the local contractor.`;
 
 /** Shown beside the primary lead-generation form. */
-export const SERVICE_DISCLOSURE = `Lancaster Concrete Connect coordinates your project and free estimate. Requests are sent to licensed local concrete specialists in our network, who set their own pricing, perform the concrete work, and enter into contracts directly with you.`;
+export const SERVICE_DISCLOSURE = `Lancaster Concrete Connect coordinates your project and free estimate. Requests are sent to independent local concrete providers in our network, who set their own pricing, perform the concrete work, and enter into contracts directly with you.`;
 
 /** Shown inside the lead form, visually secondary to the fields. */
-export const LEAD_FORM_DISCLOSURE = `Lancaster Concrete Connect coordinates your free estimate with a licensed local specialist, who performs the concrete work. Your details may be shared with them to respond.`;
+export const LEAD_FORM_DISCLOSURE = `Lancaster Concrete Connect coordinates your free estimate with an independent local provider, who performs the concrete work. Your details may be shared with them to respond.`;
 
 /** Verbatim disclosure required on every service page. */
 export const SERVICE_PAGE_DISCLOSURE = `We are a project coordination service, not a concrete contractor. We connect homeowners with trusted local concrete contractors in our network. We do not perform, supervise, or guarantee construction work. Contracts and licensing must be verified directly with the local contractor.`;
 
-export const SHORT_DISCLOSURE = `Lancaster Concrete Connect is a dedicated project coordination service, not a concrete contractor. We connect homeowners with licensed local concrete specialists in Lancaster County, South Carolina.`;
+export const SHORT_DISCLOSURE = `Lancaster Concrete Connect is a dedicated project coordination service, not a concrete contractor. We connect homeowners with independent local concrete providers in Lancaster County, South Carolina.`;
 
-export const CALL_DISCLOSURE = `Calls are handled directly by our Lancaster team and may be passed to a licensed local contractor in our network. Call details may be recorded for quality purposes where permitted.`;
+export const CALL_DISCLOSURE = `Calls are handled directly by our Lancaster team and may be passed to an independent local provider in our network. Call details may be recorded for quality purposes where permitted.`;
 
-export const SERVICE_CONSENT = `I agree that my request may be shared with a licensed local concrete contractor serving my area so they can contact me about this project.`;
+export const SERVICE_CONSENT = `I agree that my request may be shared with an independent local concrete provider serving my area so they can contact me about this project.`;
 
 export const MARKETING_CONSENT = `Optional: send me occasional project tips and offers. Not required to get a quote.`;
 

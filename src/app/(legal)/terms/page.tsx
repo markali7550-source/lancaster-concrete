@@ -16,7 +16,7 @@ export default function TermsPage() {
       <h2>Service scope</h2>
       <p>
         {site.brand} is a project coordination service that connects homeowners
-        with trusted, licensed local concrete contractors in Lancaster County,
+        with trusted, independent local concrete providers in Lancaster County,
         South Carolina. We provide project coordination and free estimate
         routing. We are not a concrete contractor, builder, engineer,
         or government agency, and we are not a party to any agreement you enter
@@ -27,10 +27,10 @@ export default function TermsPage() {
       <h2>Contracts for concrete work</h2>
       <p>
         The contractual agreement for concrete work is made directly between you
-        and the licensed local contractor. Pricing, scope, schedule, workmanship,
+        and the independent local provider. Pricing, scope, schedule, workmanship,
         and payment terms are set in that agreement, not by {site.brand}. The
         construction contract, and any liability arising from the construction
-        work, remain between you and the licensed local contractor.
+        work, remain between you and the independent local provider.
       </p>
 
       <hr className="my-8 border-t border-[var(--color-line-soft)] md:my-12" />

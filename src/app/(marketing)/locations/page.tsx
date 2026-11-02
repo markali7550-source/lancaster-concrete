@@ -63,13 +63,13 @@ export default function LocationsPage() {
           Concrete Service Areas in South Carolina
         </h1>
         <p className="lede mt-5 max-w-2xl" style={{ color: overlayBody }}>
-          Connecting homeowners across Lancaster County with trusted, licensed local concrete specialists. Select your area below to request your free, no-obligation estimate.
+          Connecting homeowners across Lancaster County with trusted, independent local concrete providers. Select your area below to request your free, no-obligation estimate.
         </p>
       </OverlayHeader>
       <Section
         eyebrow="Coverage"
         title="Where we currently take quote requests"
-        lead="Every area below is served by a licensed local contractor our team has reviewed."
+        lead="Every area below is served by an independent local provider our team has reviewed."
       >
         <div className="grid grid-cols-1 overflow-hidden rounded-xl border border-solid border-[var(--color-line)] divide-y divide-solid divide-[var(--color-line)] md:grid-cols-2 md:divide-x md:divide-[var(--color-line-field)] md:divide-y-0">
           <div className="px-5 py-6 md:px-6 md:py-8 md:first:pl-6 md:last:pr-6">
@@ -145,7 +145,7 @@ export default function LocationsPage() {
       </Section>
       <CtaBand
         title="Ready to request concrete service?"
-        body="Choose your city above, or send your project details and we will check whether a licensed local contractor covers your area."
+        body="Choose your city above, or send your project details and we will check whether an independent local provider covers your area."
         formHref="/contact#quote-form"
       />
     </>

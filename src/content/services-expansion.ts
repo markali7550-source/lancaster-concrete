@@ -191,9 +191,9 @@ export const expansionServices: readonly ServiceRecord[] = [
     nameLower: "concrete foundations",
     projectNoun: "foundation",
     state: "published",
-    intent: "Footing and house foundation requests",
+    intent: "New residential footings and stem walls",
     summary:
-      "Footings, stem walls, and foundation work built to the engineer's drawings and the soil conditions on the site.",
+      "New residential footings and stem walls, built to the engineer's drawings and the soil conditions on the site.",
     cardScope: "Footings, stem walls, and foundation reinforcement",
     workIncluded: [
       "Layout from the plan set and excavation to the specified depth",
@@ -203,7 +203,7 @@ export const expansionServices: readonly ServiceRecord[] = [
       "Site clean up and haul away of spoil",
     ],
     heroSummary:
-      "Engineered, high strength structural foundations poured strictly to Lancaster County building codes. Get a transparent, no obligation estimate from our local specialists.",
+      "New residential footings and stem walls, poured to the engineer's drawings and Lancaster County building codes. Get a transparent, no obligation estimate from our local specialists.",
     sectionOrder: [...STANDARD_SECTIONS],
     headings: {
       scope: "What a foundation pour includes",
@@ -245,8 +245,8 @@ export const expansionServices: readonly ServiceRecord[] = [
       },
     ],
     outOfScope: [
-      "Foundation repair and underpinning",
-      "Structural engineering and load calculations",
+      "Structural foundation underpinning",
+      "Structural engineering repairs and load calculations",
       "Retaining walls",
     ],
     options: [
@@ -567,7 +567,7 @@ export const expansionServices: readonly ServiceRecord[] = [
     imageAlt:
       "Concrete front steps with a finished surface at a home entrance beside white siding",
     imageCaption:
-      "Example photo of concrete steps. Work is performed by licensed local contractors, not by this site.",
+      "Example photo of concrete steps. Work is performed by independent local providers, not by this site.",
     projectTypes: ["Front steps", "Porch landing", "Step replacement"],
     keyFacts: [
       { label: "Scope", value: "Front steps and porch landings" },
@@ -759,6 +759,7 @@ export const expansionServices: readonly ServiceRecord[] = [
     outOfScope: [
       "Structural foundation repair",
       "Full slab replacement when the slab is cracked through",
+      "Crack repair and joint restoration, covered on our Concrete Repair page",
       "Drainage and grading work beyond the slab edge",
     ],
     options: [

@@ -84,9 +84,9 @@ export default async function LocationPage({ params }: { params: Params }) {
       answer: `${location.city}, ${location.region}. Our trusted contractors approve this area in writing. A request from outside them returns a clear answer that it is not covered, rather than being forwarded to someone who does not work there.`,
     },
     {
-      question: `Do you have concrete specialists in ${location.city}?`,
+      question: `Do you have local concrete providers in ${location.city}?`,
       answer:
-        "Yes. We connect you with licensed local contractors in " + location.city + ". Our team connects you directly with established, licensed local concrete specialists who carry their own trade licensing and insurance.",
+        "Yes. We connect you with independent local providers in " + location.city + ". Each provider is responsible for its own licensing and insurance.",
     },
     {
       question: `How quickly does a ${location.city} contractor respond?`,

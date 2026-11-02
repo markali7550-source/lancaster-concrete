@@ -311,7 +311,7 @@ export const overlayMuted = "rgba(255,255,255,0.80)";
 const HERO_TRUST = [
   "100% free service for homeowners",
   "No obligation quotes",
-  "Licensed and insured local specialists",
+  "Independent local providers",
 ];
 
 export function Hero({
@@ -581,8 +581,8 @@ const SERVICE_AREA_CONTROLS = [
     body: "We confirm each address before we schedule anything, so you hear quickly whether a local contractor can take your project.",
   },
   {
-    title: "Licensed and insured specialists",
-    body: "Our team connects you directly with established, licensed local concrete specialists who carry their own trade licensing and insurance.",
+    title: "Independent local providers",
+    body: "Our team connects you directly with independent local concrete providers who are responsible for their own licensing and insurance.",
   },
   {
     title: "Matched to your project type",
@@ -644,8 +644,8 @@ const STEPS = [
     body: "Tell us about your concrete needs and property details.",
   },
   {
-    verb: "We Review & Coordinate",
-    body: "Our team reviews your request and connects with an available, licensed local concrete specialist in Lancaster County.",
+    verb: "Coverage & Match Check",
+    body: "We check coverage, project type match, referral agreement, and current capacity.",
   },
   {
     verb: "Get Your Free Quote",

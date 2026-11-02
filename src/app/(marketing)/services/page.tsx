@@ -50,9 +50,9 @@ const FAQS = [
       "Yes. Our contractors work in clean broom finish concrete as well as custom decorative options, including stamped textures, custom stains, and exposed aggregate.",
   },
   {
-    question: "Are your contractors licensed and insured in South Carolina?",
+    question: "Are your local providers licensed and insured in South Carolina?",
     answer:
-      "Yes. Our team connects you directly with established, licensed local concrete specialists who carry their own trade licensing and insurance. You can also confirm any license through SC LLR.",
+      "We do not verify or guarantee any provider's license or insurance. Each provider is an independent local concrete business responsible for its own licensing and insurance. You can confirm license status directly with the provider and through SC LLR before you hire.",
   },
 ];
 
@@ -95,7 +95,7 @@ export default function ServicesPage() {
           className="mt-4 max-w-2xl text-[17px] leading-relaxed"
           style={{ color: overlayBody }}
         >
-          Explore our complete range of comprehensive residential concrete solutions across Lancaster County. Connect directly with trusted, licensed local specialists for a free estimate.
+          Explore our complete range of comprehensive residential concrete solutions across Lancaster County. Connect directly with trusted, independent local providers for a free estimate.
         </p>
       </OverlayHeader>
 
@@ -159,7 +159,7 @@ export default function ServicesPage() {
           alt: "Concrete poured from a mixer and worked with a shovel along a form board, a worker in orange coveralls and boots",
         }}
         eyebrow="Process"
-        title="How a request reaches a licensed local contractor"
+        title="How a request reaches an independent local provider"
       >
         <HowMatchingWorks />
       </Section>

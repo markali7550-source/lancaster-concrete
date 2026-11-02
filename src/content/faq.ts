@@ -191,8 +191,8 @@ export const faqCategories: readonly FaqCategory[] = [
         ]
       },
       {
-        "question": "Are all contractors licensed and insured?",
-        "answer": "Work is performed by our trusted local concrete contractors, not by us. Each contractor is responsible for its own licensing, bonding, and insurance, and for building to South Carolina codes and industry standards. Ask any contractor for proof before you sign.",
+        "question": "Are the local providers licensed and insured?",
+        "answer": "Work is performed by independent local concrete providers, not by us. Each provider is responsible for its own licensing, bonding, and insurance, and for building to South Carolina codes and industry standards. Ask any contractor for proof before you sign.",
         "links": []
       }
     ]

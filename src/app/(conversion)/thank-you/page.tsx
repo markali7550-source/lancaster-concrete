@@ -51,7 +51,7 @@ export default function ThankYouPage() {
           <p className="eyebrow">Request received</p>
           <h1 className="h1 mt-4">Thank you! Your request has been received.</h1>
           <p className="lede mt-5">
-            Our team coordinates your request and connects you with a licensed local contractor, who will reach out directly.
+            Our team coordinates your request and connects you with an independent local provider, who will reach out directly.
           </p>
           <div className="mx-auto mt-8 flex w-full max-w-sm flex-col gap-3 sm:max-w-none sm:flex-row sm:justify-center lg:mx-0 lg:justify-start">
             <a href={`tel:${site.phoneE164}`} className="btn btn-primary">

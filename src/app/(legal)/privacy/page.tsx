@@ -32,7 +32,7 @@ export default function PrivacyPage() {
       <hr className="my-8 border-t border-[var(--color-line-soft)] md:my-12" />
       <h2>Why we share it</h2>
       <p>
-        Your request is shared with the licensed local contractor assigned to
+        Your request is shared with the independent local provider assigned to
         your area so that they can contact you about your project. That
         contractor is a separate business and handles your information under its
         own policy. We never sell your project or contact details, and we do not

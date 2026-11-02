@@ -129,7 +129,7 @@ export default function HowItWorksPage() {
 
       <CtaBand
         title="Ready to start?"
-        body="Submit your project details and our team will connect you with a licensed local contractor. It is free, with no obligation."
+        body="Submit your project details and our team will connect you with an independent local provider. It is free, with no obligation."
         showFormLink={false}
       />
 

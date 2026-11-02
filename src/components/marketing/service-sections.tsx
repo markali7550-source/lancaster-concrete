@@ -458,7 +458,7 @@ export function PrepColumns({
         </ul>
         <p className="mt-5 border-t pt-4 text-xs leading-relaxed text-[color:var(--color-muted)] hairline">
           Pricing, specification, scheduling, and warranty sit with the
-          licensed local contractor assigned to your project.
+          independent local provider assigned to your project.
         </p>
       </div>
     </div>

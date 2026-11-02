@@ -179,7 +179,7 @@ export const comboMeta = {
     if (override) return override.description(city);
     const parts = SEO_SERVICE_NAME[serviceSlug];
     return parts
-      ? `Need ${parts[0].toLowerCase()} in ${city}, SC or Lancaster County? Connect with licensed local contractors for red clay site prep, pours and fast estimates.`
+      ? `Need ${parts[0].toLowerCase()} in ${city}, SC or Lancaster County? Connect with independent local providers for red clay site prep, pours and fast estimates.`
       : `Tell us about your ${serviceSlug.replace(/-/g, " ")} project in ${city}, SC and a local contractor can reply to your request.`;
   },
   h1: (serviceSlug: string, city: string) =>

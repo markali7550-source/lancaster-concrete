@@ -43,7 +43,7 @@ export const LOCAL_SOIL_BY_SERVICE: Record<string, { title: string; paragraphs: 
   "concrete-slabs": {
     "title": "Slabs in Lancaster: moisture under the pad",
     "paragraphs": [
-      "A garage, shed, or equipment pad on red clay can draw moisture upward for weeks after a wet season. The base and the vapor barrier decide whether that moisture reaches stored equipment or flooring.",
+      "A garage or shed slab on red clay can draw moisture upward for weeks after a wet season. The base and the vapor barrier decide whether that moisture reaches stored equipment or flooring.",
       "Slabs are often poured with little grade around them, so water can pond against the edge. Confirm how the pad will drain before the pour is scheduled."
     ]
   },

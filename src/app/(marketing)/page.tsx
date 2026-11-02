@@ -27,7 +27,7 @@ import { buildGraph, faqNode, webPageNode } from "@/lib/schema/graph";
 
 const TITLE = "Concrete Contractors Lancaster SC | Lancaster Concrete Connect";
 const DESCRIPTION =
-  "Looking for dependable concrete contractors in Lancaster, SC? We connect you with top-rated pros for driveways, stamped patios & slabs. Request a free quote!";
+  "Looking for dependable concrete contractors in Lancaster, SC? We connect you with independent local concrete providers for driveways, stamped patios & slabs. Request a free quote!";
 
 export const metadata: Metadata = pageMetadata({
   title: TITLE,
@@ -105,12 +105,12 @@ const FAQS = [
   {
     question: "Do you perform concrete work?",
     answer:
-      "We do not pour concrete ourselves. We coordinate your project with a licensed local concrete contractor who specializes in your exact project type, and our team stays involved through the estimate and follow up.",
+      "We do not pour concrete ourselves. We coordinate your project with an independent local concrete provider who specializes in your exact project type, and our team stays involved through the estimate and follow up.",
   },
   {
     question: "Who performs the work?",
     answer:
-      "A licensed local contractor matched to your project. They hold the relationship and the contract with you for the work, and our team coordinates the estimate and the schedule.",
+      "An independent local provider matched to your project. They hold the relationship and the contract with you for the work, and our team coordinates the estimate and the schedule.",
   },
   {
     question: "Which areas can you take work in right now?",
@@ -118,14 +118,14 @@ const FAQS = [
       "Lancaster, South Carolina. If your address is outside our service area, we will tell you plainly and right away.",
   },
   {
-    question: "Are the contractors licensed and insured?",
+    question: "Are the local providers licensed and insured?",
     answer:
-      "Yes. Our team connects you directly with established, licensed local concrete specialists who carry their own trade licensing and insurance. You can also confirm any license through SC LLR.",
+      "We do not verify or guarantee any provider's license or insurance. Each provider is an independent local concrete business responsible for its own licensing and insurance. You can confirm license status directly with the provider and through SC LLR before you hire.",
   },
   {
     question: "What happens to my details?",
     answer:
-      "Your request is shared with the licensed local contractor covering your area so they can contact you about your project. Marketing contact is a separate, optional consent. See the Privacy Policy for retention and your choices.",
+      "Your request is shared with the independent local provider covering your area so they can contact you about your project. Marketing contact is a separate, optional consent. See the Privacy Policy for retention and your choices.",
   },
 ];
 
@@ -148,7 +148,7 @@ export default function HomePage() {
       <Hero
         locationCue="Lancaster County, South Carolina"
         h1="Lancaster's Trusted Concrete Connection"
-        summary="Taking the hassle out of finding reliable concrete pros. We connect you directly with top rated, licensed local contractors for driveways, patios, walkways, and foundations."
+        summary="Taking the hassle out of finding reliable concrete pros. We connect you directly with independent local concrete providers for driveways, patios, walkways, and foundations."
         imageSrc="/images/hero-concrete-lancaster.webp"
         imageAlt="Professional concrete driveway and stamped patio installation in Lancaster, SC"
         overlay
@@ -242,8 +242,8 @@ export default function HomePage() {
       <Section
         tone="soft"
         eyebrow="How requests are checked"
-        title="How your request reaches a licensed local contractor"
-        lead="Our team confirms availability and coordinates directly with trusted, licensed local contractors to ensure your project gets handled by the right specialist for your exact needs. License, insurance, and workmanship remain matters to confirm directly with the licensed local contractor who contacts you."
+        title="How your request reaches an independent local provider"
+        lead="Our team confirms availability and coordinates directly with trusted, independent local providers to ensure your project gets handled by the right specialist for your exact needs. License, insurance, and workmanship remain matters to confirm directly with the independent local provider who contacts you."
       >
         <ServiceAreaControls />
       </Section>
@@ -276,8 +276,8 @@ export default function HomePage() {
       <Section
         tone="soft"
         eyebrow="On the job"
-        title="Our Team in Action | Quality Concrete Work in Lancaster, SC"
-        lead="Our dedicated local crew on site, delivering dependable concrete pouring, finishing, and repair services."
+        title="Local Projects & Provider Work Examples"
+        lead="Examples of quality concrete pouring, finishing, and repair delivered by independent local providers in Lancaster County."
       >
         <div className="grid gap-5 md:grid-cols-2">
           {[
