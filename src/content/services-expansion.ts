@@ -191,9 +191,9 @@ export const expansionServices: readonly ServiceRecord[] = [
     nameLower: "concrete foundations",
     projectNoun: "foundation",
     state: "published",
-    intent: "New residential footings and stem walls",
+    intent: "Footings and stem walls for additions and light builds",
     summary:
-      "New residential footings and stem walls, built to the engineer's drawings and the soil conditions on the site.",
+      "Footings and stem walls for additions and light builds, built to the engineer's drawings and the soil conditions on the site.",
     cardScope: "Footings, stem walls, and foundation reinforcement",
     workIncluded: [
       "Layout from the plan set and excavation to the specified depth",
@@ -203,7 +203,7 @@ export const expansionServices: readonly ServiceRecord[] = [
       "Site clean up and haul away of spoil",
     ],
     heroSummary:
-      "New residential footings and stem walls, poured to the engineer's drawings and Lancaster County building codes. Get a transparent, no obligation estimate from our local specialists.",
+      "Footings and stem walls for additions and light builds, poured to the engineer's drawings and Lancaster County building codes. Get a transparent, no obligation estimate from our local specialists.",
     sectionOrder: [...STANDARD_SECTIONS],
     headings: {
       scope: "What a foundation pour includes",
@@ -1221,10 +1221,10 @@ export const expansionServices: readonly ServiceRecord[] = [
     nameLower: "concrete aprons",
     projectNoun: "concrete apron",
     state: "published",
-    intent: "Driveway to street and driveway to garage aprons",
+    intent: "Driveway-to-garage and street-transition aprons",
     summary:
       "Concrete aprons that connect a driveway to the garage or street, graded so water runs off instead of pooling.",
-    cardScope: "Driveway to street and driveway to garage aprons",
+    cardScope: "Driveway-to-garage and street-transition aprons",
     workIncluded: [
       "Measuring the apron and checking the grade toward the street or gutter",
       "Subbase preparation and form setting to the planned slope",
@@ -2070,7 +2070,7 @@ export const expansionServices: readonly ServiceRecord[] = [
       projectNoun: "equipment pad",
       state: "published",
       intent: "Concrete pads for hot tubs, generators, and HVAC units",
-      summary: "Level, reinforced concrete pads for hot tubs, backup generators, and HVAC units that stay put on Lancaster clay.",
+      summary: "Level, reinforced concrete pads for hot tubs, backup generators, HVAC units, and commercial equipment that stay put on Lancaster clay.",
       cardScope: "Hot tub pads, generator pads, AC pads",
       workIncluded: [
         "Check of the equipment footprint and clearances",
@@ -2104,7 +2104,7 @@ export const expansionServices: readonly ServiceRecord[] = [
       keyFacts: [
         {
           label: "Pad types",
-          value: "Hot tub, generator, HVAC",
+          value: "Hot tub, generator, HVAC, commercial equipment",
         },
         {
           label: "Typical use",

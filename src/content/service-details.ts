@@ -31,6 +31,7 @@ export const serviceDetails: Record<ServiceSlug, ServiceDetail> = {
       "Generator pads",
       "AC and HVAC pads",
       "Pad replacement",
+      "Commercial equipment pads",
     ],
   },
   "concrete-demolition": {
@@ -80,7 +81,7 @@ export const serviceDetails: Record<ServiceSlug, ServiceDetail> = {
   /* ---------------------------------------------------------- slabs */
   "concrete-slabs": {
     mayInclude: [
-      "Residential slabs",
+      "Residential and light commercial building slabs",
       "Garage slabs",
       "Shed and outbuilding slabs",
       "Workshop floors",
@@ -120,7 +121,7 @@ export const serviceDetails: Record<ServiceSlug, ServiceDetail> = {
       "Stem walls",
       "Foundation reinforcement",
       "Anchor bolts and sleeves",
-      "Foundations for new homes and additions",
+      "Footings and stem walls for additions and light builds",
     ],
   },
 

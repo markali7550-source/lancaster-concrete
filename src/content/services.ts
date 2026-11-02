@@ -161,7 +161,7 @@ const coreServices: readonly ServiceRecord[] = [
       "Concrete driveway with control joints and weather staining running up to the garage of a brick ranch house, with patchy lawn, red clay at the verge and pines behind",
     projectTypes: ["New driveway", "Driveway replacement"],
     keyFacts: [
-      { label: "Served for", value: "Residential driveways and aprons" },
+      { label: "Served for", value: "Residential driveways" },
       { label: "Coverage today", value: "Lancaster, SC" },
       {
         label: "Site visit",
@@ -562,9 +562,9 @@ const coreServices: readonly ServiceRecord[] = [
     nameLower: "concrete slabs and pads",
     projectNoun: "slab",
     state: "published",
-    intent: "Garage slabs, shed slabs, and workshop floors",
+    intent: "Garage, shed, workshop, and building slabs",
     summary:
-      "Garage, shed, and workshop slabs on a compacted gravel base, with a vapor barrier where needed.",
+      "Garage, shed, workshop, and building slabs on a compacted gravel base, with a vapor barrier where needed.",
     heroSummary:
       "Even, reinforced concrete slabs perfect for sheds, workshops, additions, and outdoor structures. Connect with an experienced local specialist for upfront pricing.",
     sectionOrder: ["scope", "options", "process", "cost", "prepare"],
@@ -585,7 +585,7 @@ const coreServices: readonly ServiceRecord[] = [
       "Pricing comes last here for a reason: until the load, the access and the base are known, any number is a guess. Once those are settled a contractor can quote a pad quickly.",
     ctaLead:
       "Say what the pad has to carry and roughly where it goes. A local contractor will review it and reply.",
-    cardScope: "Garage slabs, shed slabs, and workshop floors",
+    cardScope: "Garage, shed, workshop, and building slabs",
     workIncluded: [
       "Grading and excavation to the planned subgrade",
       "Forming and reinforcement set to the layout",
@@ -602,11 +602,11 @@ const coreServices: readonly ServiceRecord[] = [
     image: "/images/locations/lancaster-sc/lancaster-sc-slabs.webp",
     imageAlt:
       "Newly poured concrete slab with form lines on its edge, set in a lawn beside a house",
-    projectTypes: ["Residential slab", "Concrete pad"],
+    projectTypes: ["Garage slab", "Shed slab", "Building slab"],
     keyFacts: [
       {
         label: "Served for",
-        value: "Nonstructural residential slabs and pads",
+        value: "Nonstructural garage, shed, workshop, and building slabs",
       },
       { label: "Coverage today", value: "Lancaster, SC" },
       {
@@ -634,10 +634,10 @@ const coreServices: readonly ServiceRecord[] = [
       },
     ],
     outOfScope: [
-      "New residential footings and stem walls, covered on our Concrete Foundations page",
+      "Footings and stem walls for additions and light builds, covered on our Concrete Foundations page",
       "Engineered or load bearing structural slabs",
       "Driveways and aprons",
-      "Hot tub, generator, and HVAC pads, covered on our Equipment Pads page",
+      "Hot tub, generator, HVAC, and commercial equipment pads, covered on our Equipment Pads page",
       "Retaining walls and any earth retention design",
     ],
     options: [
@@ -779,7 +779,7 @@ const coreServices: readonly ServiceRecord[] = [
     state: "published",
     intent: "Crack repair, joint restoration, and damaged concrete",
     summary:
-      "Crack fixing, joint restoration, and patching of damaged concrete to keep water out.",
+      "Crack fixing, joint restoration, and patching of damaged residential and commercial concrete to keep water out.",
     heroSummary:
       "Fast, reliable repair solutions for cracked or chipping residential concrete. Our team coordinates a free on site assessment with an experienced local pro.",
     sectionOrder: ["scope", "options", "process", "cost", "prepare"],

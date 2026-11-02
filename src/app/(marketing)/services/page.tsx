@@ -32,7 +32,7 @@ const FAQS = [
   {
     question: "What concrete services do you offer in Lancaster?",
     answer:
-      "Our trusted local contractors cover residential concrete work in Lancaster, including driveways, patios, walkways, foundations, slabs, garage coatings, repair, and decorative stamped concrete.",
+      "Independent local concrete providers cover residential and local commercial concrete work in Lancaster, including driveways, patios, walkways, foundations, slabs, garage coatings, repair, and decorative stamped concrete.",
   },
   {
     question: "Can I combine multiple concrete services into one project?",
@@ -95,7 +95,7 @@ export default function ServicesPage() {
           className="mt-4 max-w-2xl text-[17px] leading-relaxed"
           style={{ color: overlayBody }}
         >
-          Explore our complete range of comprehensive residential concrete solutions across Lancaster County. Connect directly with trusted, independent local providers for a free estimate.
+          Explore our complete range of residential and local commercial concrete solutions across Lancaster County. Connect directly with trusted, independent local providers for a free estimate.
         </p>
       </OverlayHeader>
 
@@ -168,10 +168,10 @@ export default function ServicesPage() {
         <div className="card p-6">
           <p className="text-[color:var(--color-muted)]">
             To ensure the highest quality results, our network focuses
-            specifically on residential concrete flatwork, installations, and
+            specifically on residential and local commercial concrete flatwork, installations, and
             surface care. We do not provide major structural foundation
             repairs, retaining walls, mudjacking/slab jacking, raw materials
-            delivery, or heavy commercial contracts. We believe in being upfront,
+            delivery, or large commercial contracts. We believe in being upfront,
             so you can find the right trade specialist for your specific
             project.
           </p>

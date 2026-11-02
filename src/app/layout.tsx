@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     template: `%s`,
   },
   description:
-    "Local concrete service for Lancaster, South Carolina homeowners: driveways, patios, slabs, and repair, done by independent local concrete providers.",
+    "Residential and local commercial concrete project coordination in Lancaster, South Carolina: driveways, patios, slabs, and repair, with independent local concrete providers.",
   icons: { icon: "/favicon.webp", apple: "/apple-icon.webp" },
 };
 

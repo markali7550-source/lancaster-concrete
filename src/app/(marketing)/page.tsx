@@ -148,7 +148,7 @@ export default function HomePage() {
       <Hero
         locationCue="Lancaster County, South Carolina"
         h1="Lancaster's Trusted Concrete Connection"
-        summary="Taking the hassle out of finding reliable concrete pros. We connect you directly with independent local concrete providers for driveways, patios, walkways, and foundations."
+        summary="Taking the hassle out of finding reliable concrete pros. We connect you directly with independent local concrete providers for residential and local commercial projects, including driveways, patios, walkways, and foundations."
         imageSrc="/images/hero-concrete-lancaster.webp"
         imageAlt="Professional concrete driveway and stamped patio installation in Lancaster, SC"
         overlay
