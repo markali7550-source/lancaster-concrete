@@ -569,7 +569,7 @@ const coreServices: readonly ServiceRecord[] = [
       "Even, reinforced concrete slabs perfect for sheds, workshops, additions, and outdoor structures. Connect with an experienced local specialist for upfront pricing.",
     sectionOrder: ["scope", "options", "process", "cost", "prepare"],
     headings: {
-      scope: "Pads this category covers",
+      scope: "Slab types this category covers",
       options: "Specifying a pad for what it carries",
       process: "From staked forms to a usable pad",
       cost: "What drives the price of a pad",
