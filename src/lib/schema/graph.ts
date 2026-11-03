@@ -49,7 +49,7 @@ export function rootGraph(): Node[] {
       email: site.email,
       description: BUSINESS_DESCRIPTION,
       address: postalAddress(),
-      /* Geo focus: the centre of Lancaster, SC. */
+      /* Geo focus: the center of Lancaster, SC. */
       geo: {
         "@type": "GeoCoordinates",
         latitude: 34.7204,

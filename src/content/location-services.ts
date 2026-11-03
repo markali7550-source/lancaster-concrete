@@ -666,7 +666,7 @@ const records: readonly LocationServiceRecord[] = [
     heroSummary: "Quickly eliminate trip hazards and restore uneven slabs without noisy excavation. Connect with trusted Lancaster leveling specialists for a free quote.",
     state: "published",
     localImage: "/images/services/concrete-leveling/concrete-leveling-hero.webp",
-    localImageAlt: "Workers pulling a screed bar across wet grey concrete to level the surface",
+    localImageAlt: "Workers pulling a screed bar across wet gray concrete to level the surface",
     localBody: [
       {
         heading: "Why slabs sink here",
@@ -822,7 +822,7 @@ const records: readonly LocationServiceRecord[] = [
     heroSummary: "Heavy duty driveway and garage aprons built for smooth transitions and heavy vehicle loads. Connect with local Lancaster pros for a free estimate.",
     state: "published",
     localImage: "/images/services/concrete-aprons/concrete-aprons-hero.webp",
-    localImageAlt: "Newly poured grey concrete sidewalk and apron with orange traffic cones along an open street edge",
+    localImageAlt: "Newly poured gray concrete sidewalk and apron with orange traffic cones along an open street edge",
     localBody: [
       {
         heading: "Grade decides the job",
@@ -926,7 +926,7 @@ const records: readonly LocationServiceRecord[] = [
     heroSummary: "Decorative, slip resistant exposed aggregate surfaces perfect for Lancaster patios and driveways. Get an upfront quote from our local specialists.",
     state: "published",
     localImage: "/images/services/concrete-exposed-aggregate/concrete-exposed-aggregate-hero.webp",
-    localImageAlt: "Residential exposed aggregate concrete driveway with mixed tan and grey stones across the surface",
+    localImageAlt: "Residential exposed aggregate concrete driveway with mixed tan and gray stones across the surface",
     localBody: [
       {
         heading: "Stone and look",

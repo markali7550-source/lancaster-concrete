@@ -42,11 +42,11 @@ import { site } from "@/lib/env";
  * somebody else's garage.
  */
 const SERVICE_DETAIL_IMAGES: Record<string, { src: string; alt: string }> = {
-  "concrete-aprons": { src: "/images/services/concrete-aprons/concrete-aprons-detail.webp", alt: "Edge of a grey concrete apron meeting a curb and gutter, with a neat saw-cut control joint" },
+  "concrete-aprons": { src: "/images/services/concrete-aprons/concrete-aprons-detail.webp", alt: "Edge of a gray concrete apron meeting a curb and gutter, with a neat saw-cut control joint" },
   "concrete-sealing": { src: "/images/services/concrete-sealing/concrete-sealing-detail.webp", alt: "Sealed concrete surface with water beading on it and realistic reflections" },
   "concrete-exposed-aggregate": { src: "/images/services/concrete-exposed-aggregate/concrete-exposed-aggregate-detail.webp", alt: "Exposed aggregate concrete with rounded river stones and a textured surface" },
-  "concrete-leveling": { src: "/images/services/concrete-leveling/concrete-leveling-detail.webp", alt: "Grey concrete patio with small grout-patched holes from slab leveling work" },
-  "concrete-garage-coatings": { src: "/images/services/concrete-garage-coatings/concrete-garage-coatings-detail.webp", alt: "Glossy speckled grey epoxy garage floor with a painted yellow parking line" },
+  "concrete-leveling": { src: "/images/services/concrete-leveling/concrete-leveling-detail.webp", alt: "Gray concrete patio with small grout-patched holes from slab leveling work" },
+  "concrete-garage-coatings": { src: "/images/services/concrete-garage-coatings/concrete-garage-coatings-detail.webp", alt: "Glossy speckled gray epoxy garage floor with a painted yellow parking line" },
   "concrete-resurfacing": { src: "/images/services/concrete-resurfacing/concrete-resurfacing-detail.webp", alt: "Broom-textured thin concrete overlay with a clean edge against an older cracked slab" },
   "concrete-driveways": { src: "/images/services/concrete-driveways/concrete-driveways-detail.webp", alt: "Driveway edge pitched away from the lawn with a gravel drainage margin" },
   "concrete-patios": { src: "/images/services/concrete-patios/concrete-patios-detail.webp", alt: "New concrete patio slab set between wood edge forms beside a two-story vinyl-sided house with a screened porch" },
@@ -69,12 +69,12 @@ const SERVICE_DETAIL_IMAGES: Record<string, { src: string; alt: string }> = {
  * slabs; owner-supplied real photographs remain the endpoint.
  */
 const SERVICE_PROCESS_IMAGES: Record<string, { src: string; alt: string }> = {
-  "concrete-aprons": { src: "/images/services/concrete-aprons/concrete-aprons-process.webp", alt: "Worker drawing a long screed board across freshly placed grey concrete beside a street" },
-  "concrete-sealing": { src: "/images/services/concrete-sealing/concrete-sealing-process.webp", alt: "Close-up of a white coating brushed across a grey concrete slab, meeting a darker sealed strip" },
+  "concrete-aprons": { src: "/images/services/concrete-aprons/concrete-aprons-process.webp", alt: "Worker drawing a long screed board across freshly placed gray concrete beside a street" },
+  "concrete-sealing": { src: "/images/services/concrete-sealing/concrete-sealing-process.webp", alt: "Close-up of a white coating brushed across a gray concrete slab, meeting a darker sealed strip" },
   "concrete-exposed-aggregate": { src: "/images/services/concrete-exposed-aggregate/concrete-exposed-aggregate-process.webp", alt: "Exposed aggregate concrete walkway partly washed to reveal the stones, with a darker wet band" },
   "concrete-leveling": { src: "/images/services/concrete-leveling/concrete-leveling-process.webp", alt: "Spirit level resting on a concrete surface beside a red hard hat, checking that the surface is level" },
   "concrete-garage-coatings": { src: "/images/services/concrete-garage-coatings/concrete-garage-coatings-process.webp", alt: "Garage floor partly coated with clear sealer, with roller marks and a paint tray at the edge" },
-  "concrete-resurfacing": { src: "/images/services/concrete-resurfacing/concrete-resurfacing-process.webp", alt: "Two workers guiding a walk-behind power trowel over a fresh grey concrete floor" },
+  "concrete-resurfacing": { src: "/images/services/concrete-resurfacing/concrete-resurfacing-process.webp", alt: "Two workers guiding a walk-behind power trowel over a fresh gray concrete floor" },
   "concrete-driveways": {
     src: "/images/services/concrete-driveways/concrete-driveways-process.webp",
     alt: "Two workers screeding fresh concrete on a residential driveway with a long straightedge, a pickup and cones at the street",
@@ -93,7 +93,7 @@ const SERVICE_PROCESS_IMAGES: Record<string, { src: string; alt: string }> = {
   },
   "concrete-foundations": {
     src: "/images/services/concrete-foundations/concrete-foundations-band.webp",
-    alt: "Steel rebar grid laid over sandy ground at a foundation site, with a grey plastic sheet and a short pipe along the far edge",
+    alt: "Steel rebar grid laid over sandy ground at a foundation site, with a gray plastic sheet and a short pipe along the far edge",
   },
   "concrete-walkways": {
     src: "/images/services/concrete-walkways/concrete-walkways-process.webp",

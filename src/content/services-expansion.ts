@@ -736,7 +736,7 @@ export const expansionServices: readonly ServiceRecord[] = [
       "Send photos of the sunken area and tell us where it sits. A local contractor will confirm whether leveling is suitable.",
     image: "/images/services/concrete-leveling/concrete-leveling-hero.webp",
     imageAlt:
-      "Workers pulling a screed bar across wet grey concrete to level the surface",
+      "Workers pulling a screed bar across wet gray concrete to level the surface",
     projectTypes: ["Sunken driveway", "Uneven sidewalk", "Settled patio"],
     keyFacts: [
       { label: "Typical use", value: "Sunken or uneven slabs" },
@@ -1254,7 +1254,7 @@ export const expansionServices: readonly ServiceRecord[] = [
       "Send photos of the driveway edge, the curb, and the gutter. A local contractor will confirm the grade and the finish.",
     image: "/images/services/concrete-aprons/concrete-aprons-hero.webp",
     imageAlt:
-      "Newly poured grey concrete sidewalk and apron with orange traffic cones along an open street edge",
+      "Newly poured gray concrete sidewalk and apron with orange traffic cones along an open street edge",
     projectTypes: ["Street apron", "Garage apron", "Replacement apron"],
     keyFacts: [
       { label: "Typical use", value: "Driveway to street and garage connections" },
@@ -1591,7 +1591,7 @@ export const expansionServices: readonly ServiceRecord[] = [
       "Send the area and the look you like, and ask for stone samples. A local contractor will confirm the finish on your slab.",
     image: "/images/services/concrete-exposed-aggregate/concrete-exposed-aggregate-hero.webp",
     imageAlt:
-      "Residential exposed aggregate concrete driveway with mixed tan and grey stones across the surface",
+      "Residential exposed aggregate concrete driveway with mixed tan and gray stones across the surface",
     projectTypes: ["Exposed aggregate driveway", "Exposed aggregate patio", "Exposed aggregate walkway"],
     keyFacts: [
       { label: "Finish", value: "Stone textured, decorative" },
